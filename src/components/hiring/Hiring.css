@@ -20,6 +20,12 @@
     margin-bottom: 1rem;
     position: relative;
     left: 500px;
+  
+}
+
+.h1size{
+
+    font-size: 55px;
 }
 
 .hiring-text p {

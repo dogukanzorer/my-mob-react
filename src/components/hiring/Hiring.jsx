@@ -6,24 +6,11 @@ function Hiring() {
     <section className="hiring" id="hiring">
         
         <div className="hiring-text">
-            <h1>Join Our Team</h1>
-            <form className="hiring-form">
-                <div className="form-group">
-                    <label htmlFor="name">Name:</label>
-                    <input type="text" id="name" name="name" required />
-                </div>
-                <div className="form-group">
-                    <label htmlFor="email">Email:</label>
-                    <input type="email" id="email" name="email" required />
-                </div>
-                <div className="form-group">
-                    <label htmlFor="resume">Resume:</label>
-                    <input type="file" id="resume" name="resume" required />
-                </div>
-                <button type="submit" className="submit-btn">Submit</button>
-            </form>
+            
+            
         </div>
         <div className="hiring-img">
+            <h1 className='h1size'>Join Our Team</h1>
             <h1 className='hiring-h1'>Operations Manager</h1>
             <p>Oversee business activities to ensure profitability, 
                 high performance, and excellent customer service. 
